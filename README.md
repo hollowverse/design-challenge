@@ -66,7 +66,7 @@ We like the mobile sites of [MasterClass.com](https://www.masterclass.com/) and 
 
 But we like MasterClass and Netflix because their designs feel _human-focused_. Hollowverse should also have a design that is _human-focused_ because it is about the politics, religions, and ideas of celebrities.
 
-To add liveliness to your design, see if you can use some of [these images](https://commons.wikimedia.org/w/index.php?search=elon+musk&title=Special:MediaSearch&go=Go&type=image) in it.
+To add life to your design, see if you can add some of [these images](https://commons.wikimedia.org/w/index.php?search=elon+musk&title=Special:MediaSearch&go=Go&type=image) in it. The more images you can add, the better--as long as you maintain an optimal mobile reading experience.
 
 ### Explanation of what you see on `http://localhost:3000`
 
