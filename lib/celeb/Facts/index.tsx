@@ -12,13 +12,15 @@ export const Facts = () => {
         const factGroup = groups[topic];
 
         return (
-          <div key={`${topic}-${i}`}>
+          <div
+            key={`${topic}-${i}`}
+            style={{ backgroundColor: '#F4ECF7', marginTop: 20 }}
+          >
+            <div>{topic}</div>
+
             {factGroup.map((fact, innerI) => {
               return (
-                <div
-                  key={`${topic}-${i}-${innerI}`}
-                  style={{ backgroundColor: '#F4ECF7' }}
-                >
+                <div key={`${topic}-${i}-${innerI}`}>
                   <Fact value={fact} />
                 </div>
               );
