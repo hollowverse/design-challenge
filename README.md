@@ -1,3 +1,5 @@
+**UPDATE** _April 30 2022_. We haven't received a winning submission yet. If you're interested, the challenge is still open!
+
 # Design Challenge
 
 Can you do both design AND code? If so, read on...
