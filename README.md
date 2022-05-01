@@ -1,4 +1,4 @@
-**UPDATE** _April 30 2022_. We received [these submissions](https://github.com/hollowverse-archive/submissions) but they're far below the quality we're looking for! If you're interested, the challenge is still open!
+**UPDATE** _May 1st 2022_. We are still accepting submissions!
 
 # Design Challenge
 
