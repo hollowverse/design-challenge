@@ -1,4 +1,4 @@
-**UPDATE** _May 1st 2022_. We are still accepting submissions!
+**UPDATE** _May 1st 2022_. The challenge is still open. Take the time to make a quality submission. You have, at least, until May 6th.
 
 # Design Challenge
 
@@ -26,13 +26,11 @@ If you're interested, complete the challenge below.
 
 ## The Challenge
 
-In this challenge you'll style one whole page. This could take one or more days to complete.
+In this challenge you'll style one whole page. This could take one or more days to complete. If you would like to ask to be compensated for completing it, talk to us first.
 
-(_Note_: anyone is free to complete and submit this challenge but if you would like to ask to be compensated for completing it, talk to us first.)
+If it's easier, you could submit a mock-up design with something like Figma, along with a simplified implementation of that design. But an implementation is required.
 
-The code is done in React, Next.js, and TypeScript.
-
-This challenge is hosted as a GitHub template. The first step is for you to create a repository under your account from this GitHub template.
+The code is hosted as a GitHub template. To start the implementation, the first step is to create a repository under your account from this GitHub template.
 
 Then
 
