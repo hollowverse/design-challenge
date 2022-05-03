@@ -1,5 +1,3 @@
-**UPDATE** _May 1st 2022_. The challenge is still open. Take the time to make a quality submission. You have, at least, until May 6th.
-
 # Design Challenge
 
 Can you do both design AND code? If so, read on...
@@ -17,8 +15,6 @@ If you're hired, you will only be responsible for the design, mark-up, and CSS. 
 ## The Numbers
 
 Hollowverse is growing and is run by an ex-Silicon Valley engineer. It is a public facing website with open source code, so it would look great on a resume or a portfolio. The opportunity for professional and financial growth here is very exciting!
-
-To start, we'll be paying $1,000-$2,000 per month, depending on experience.
 
 We will not be tracking how many or how little hours you'll be working. We don't have deadlines or a timeline. We just expect satisfactory and consistent daily output, which would be visible through your git commits.
 
