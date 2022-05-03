@@ -1,3 +1,5 @@
+**UPDATE**: Please contact us before starting work on this challenge.
+
 # Design Challenge
 
 Can you do both design AND code? If so, read on...
